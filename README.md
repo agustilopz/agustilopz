@@ -1,6 +1,6 @@
 ## Hi there, I'm Agustí! 👋
 
-- :man_student: I’m currently studying at ITB
+- :man_student: I’m currently studying at ITB @ITEC-BCN
 - 🌱 I’m currently learning HTML, CSS, Kotlin, Git, GitHub,..
 - 📫 How to reach me: agusti.lopez.7e8@itb.cat
 
