@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- :man_student: I’m currently studying at ITB
+- 🌱 I’m currently learning HTML, CSS, Kotlin, Git, GitHub,..
+- 📫 How to reach me: agusti.lopez.7e8@itb.cat
+
+
+
 <!--
 **agustilopz/agustilopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
