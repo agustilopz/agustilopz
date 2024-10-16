@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Agustí! 👋
 
 - :man_student: I’m currently studying at ITB
 - 🌱 I’m currently learning HTML, CSS, Kotlin, Git, GitHub,..
