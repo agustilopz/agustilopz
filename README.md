@@ -1,7 +1,7 @@
 ## Hi there, I'm Agustí! 👋
 
 - :man_student: I’m currently studying at ITB
-- 🌱 I’m learning HTML, CSS, Kotlin, Git, GitHub,..
+- 🌱 I’m learning HTML, CSS, JavaScript, Kotlin, PHP, PostgreSQL, MongoDB, Git, GitHub,..
 - 📫 How to reach me: agusti.lopez.7e8@itb.cat
 
 
