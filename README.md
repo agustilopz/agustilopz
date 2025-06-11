@@ -6,8 +6,6 @@
 
 # Hi there, I'm Agustí! 👋 
 
-## 🚀 About Me
-
 I'm a passionate **Full Stack Developer** currently pursuing my studies in **Web Application Development (DAW)** at **ITB Barcelona**.
 
 - 🎓 Currently studying at **ITB (Institut Tecnològic de Barcelona)**
