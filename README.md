@@ -1,9 +1,10 @@
-# Hi there, I'm Agustí! 👋 
 <div align="left">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000f26,100:000f26&height=170&section=header&text=Agustí%20López%20Pla-Giribert&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=58&descSize=18" />
 
 </div>
+
+# Hi there, I'm Agustí! 👋 
 
 ## 🚀 About Me
 
