@@ -40,7 +40,6 @@ I'm a passionate **Full Stack Developer** currently pursuing my studies in **Web
 
 ### 🔭 Building
 - 🌐 **Full-stack web applications** using modern frameworks
-- 📱 **Mobile apps** using Kotlin and React Native
 - 🗄️ **Database design and architecture** focused on scalability and maintainability
 
 ### 🌱 Currently Learning
