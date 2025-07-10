@@ -50,69 +50,50 @@ I'm a passionate **Full Stack Developer** currently pursuing my studies in **Web
 - 🎨 **UI/UX design** with a focus on usability and accessibility  
 
 <br>
-<details>
-  <summary> 📊 My Stats </summary>
+
   
 ## 📊 GitHub Stats
 
-<div align="left">
-
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=agustilopz&show_icons=true&bg_color=161b22&border_color=22222288&text_color=bbb"
-    media="(prefers-color-scheme: dark)"
+  <source 
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustilopz&theme=github_dark" 
+    media="(prefers-color-scheme: dark)" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=agustilopz&show_icons=true&bg_color=ffffff00&border_color=cccccc88&text_color=222"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agustilopz&theme=default" 
+    alt="GitHub Stats" 
+    style="border: 1px solid #ccc; border-radius: 8px;" 
   />
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=agustilopz&show_icons=true&bg_color=ffffff00&border_color=cccccc88&text_color=222" alt="GitHub Stats" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=agustilopz&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=agustilopz&layout=compact&bg_color=ffffff00&border_color=cccccc88&text_color=222"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustilopz&layout=compact&bg_color=ffffff00&border_color=cccccc88&text_color=222" alt="Top Langs" />
-</picture>
 
+---
+
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <!-- Top Llenguatges -->
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=agustilopz&layout=compact&bg_color=161b22&border_color=22222288&text_color=bbb&hide=html,css"
+    media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=agustilopz&layout=compact&bg_color=ffffff&border_color=cccccc88&text_color=222&hide=html,css" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustilopz&hide=html,css&layout=compact&bg_color=ffffff&border_color=cccccc88&text_color=222" alt="Top Langs" />
+  </picture>
+
+  <!-- Repos per llenguatge -->
+  <picture>
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agustilopz&theme=github_dark&exclude=html,css,CSS" media="(prefers-color-scheme: dark)" />
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agustilopz&theme=github&exclude=html,css,CSS" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agustilopz&theme=github&exclude=html,css,CSS" alt="Repos per llenguatge" />
+  </picture>
+
+  <!-- Commits per llenguatge -->
+  <picture>
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agustilopz&theme=github_dark&exclude=html,css,CSS" media="(prefers-color-scheme: dark)" />
+    <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agustilopz&theme=github&exclude=html,css,CSS" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agustilopz&theme=github&exclude=html,css,CSS" alt="Commits per llenguatge" />
+  </picture>
 </div>
 
-
-## 📈 Activity Graph
-
-<div align="left">
-
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agustilopz&theme=github-dark&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=agustilopz&theme=github-light&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agustilopz&theme=github-light&hide_border=true" alt="GitHub Activity Graph" />
-</picture>
-
-</div>
-
-
-## 🏆 GitHub Trophies
-
-<div align="left">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=agustilopz&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  
-</div>
-
-
-</details>
 
 
 
